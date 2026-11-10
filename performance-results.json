@@ -1,0 +1,26 @@
+{
+  "scenario": "Controlled Chromium benchmark; times vary by machine and website",
+  "results": [
+    {
+      "version": "1.1",
+      "nodes": 1200,
+      "classChanges": 12,
+      "initialStyleReads": 1206,
+      "updateStyleReads": 7206,
+      "scriptMs": 174.82,
+      "styleRecalculationMs": 0,
+      "disabledStyleReads": 100
+    },
+    {
+      "version": "1.2",
+      "nodes": 1200,
+      "classChanges": 12,
+      "initialStyleReads": 1204,
+      "updateStyleReads": 12,
+      "scriptMs": 0.87,
+      "styleRecalculationMs": 0,
+      "disabledStyleReads": 0,
+      "hiddenStyleReads": 0
+    }
+  ]
+}

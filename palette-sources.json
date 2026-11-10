@@ -1,0 +1,217 @@
+{
+  "note": "Original gradient combinations using official light palette tokens; not official gradient presets.",
+  "sources": {
+    "radix": "https://raw.githubusercontent.com/radix-ui/colors/main/src/light.ts",
+    "open": "https://raw.githubusercontent.com/yeun/open-color/master/open-color.json"
+  },
+  "palettes": [
+    {
+      "id": "iris",
+      "name": "雾色鸢尾",
+      "source": "Radix Colors",
+      "tokens": [
+        "iris7",
+        "violet7",
+        "purple6",
+        "sky6"
+      ],
+      "colors": [
+        "#b8baf8",
+        "#c2b5f5",
+        "#e0c4f4",
+        "#a9daed"
+      ]
+    },
+    {
+      "id": "sky",
+      "name": "晴空流云",
+      "source": "Radix Colors",
+      "tokens": [
+        "sky7",
+        "blue6",
+        "cyan6",
+        "mint6"
+      ],
+      "colors": [
+        "#8dcae3",
+        "#acd8fc",
+        "#9ddde7",
+        "#9ce0d0"
+      ]
+    },
+    {
+      "id": "jade",
+      "name": "青玉微光",
+      "source": "Radix Colors",
+      "tokens": [
+        "jade7",
+        "mint7",
+        "teal6",
+        "lime6"
+      ],
+      "colors": [
+        "#8bceb6",
+        "#7ecfbd",
+        "#a1ded2",
+        "#c2da91"
+      ]
+    },
+    {
+      "id": "rose",
+      "name": "玫瑰薄雾",
+      "source": "Radix Colors",
+      "tokens": [
+        "pink6",
+        "plum7",
+        "crimson6",
+        "orange5"
+      ],
+      "colors": [
+        "#efbfdd",
+        "#deade3",
+        "#f3bed1",
+        "#ffd19a"
+      ]
+    },
+    {
+      "id": "amber",
+      "name": "琥珀晨曦",
+      "source": "Radix Colors",
+      "tokens": [
+        "amber7",
+        "orange6",
+        "tomato6",
+        "yellow6"
+      ],
+      "colors": [
+        "#e9c162",
+        "#ffc182",
+        "#fdbdaf",
+        "#f3d768"
+      ]
+    },
+    {
+      "id": "sand",
+      "name": "砂岩暮色",
+      "source": "Radix Colors",
+      "tokens": [
+        "sand7",
+        "mauve6",
+        "bronze6",
+        "gold6"
+      ],
+      "colors": [
+        "#cfceca",
+        "#dbd8e0",
+        "#dfcdc5",
+        "#d8d0bf"
+      ]
+    },
+    {
+      "id": "ocean",
+      "name": "海盐苏打",
+      "source": "Open Color",
+      "tokens": [
+        "blue2",
+        "indigo2",
+        "cyan2",
+        "teal1"
+      ],
+      "colors": [
+        "#a5d8ff",
+        "#bac8ff",
+        "#99e9f2",
+        "#c3fae8"
+      ]
+    },
+    {
+      "id": "grape",
+      "name": "葡萄星云",
+      "source": "Open Color",
+      "tokens": [
+        "violet2",
+        "grape2",
+        "pink2",
+        "indigo1"
+      ],
+      "colors": [
+        "#d0bfff",
+        "#eebefa",
+        "#fcc2d7",
+        "#dbe4ff"
+      ]
+    },
+    {
+      "id": "sunset",
+      "name": "落日橘光",
+      "source": "Open Color",
+      "tokens": [
+        "orange2",
+        "pink2",
+        "red2",
+        "yellow2"
+      ],
+      "colors": [
+        "#ffd8a8",
+        "#fcc2d7",
+        "#ffc9c9",
+        "#ffec99"
+      ]
+    },
+    {
+      "id": "citrus",
+      "name": "柠檬奶油",
+      "source": "Open Color",
+      "tokens": [
+        "yellow2",
+        "orange1",
+        "lime2",
+        "yellow1"
+      ],
+      "colors": [
+        "#ffec99",
+        "#ffe8cc",
+        "#d8f5a2",
+        "#fff3bf"
+      ]
+    },
+    {
+      "id": "sakura",
+      "name": "樱花来信",
+      "source": "Open Color",
+      "tokens": [
+        "pink2",
+        "grape1",
+        "red1",
+        "orange1"
+      ],
+      "colors": [
+        "#fcc2d7",
+        "#f3d9fa",
+        "#ffe3e3",
+        "#ffe8cc"
+      ]
+    },
+    {
+      "id": "meadow",
+      "name": "青柠旷野",
+      "source": "Open Color",
+      "tokens": [
+        "teal2",
+        "green2",
+        "lime2",
+        "yellow1"
+      ],
+      "colors": [
+        "#96f2d7",
+        "#b2f2bb",
+        "#d8f5a2",
+        "#fff3bf"
+      ]
+    }
+  ],
+  "versions": {
+    "Radix Colors": "3.0.0",
+    "Open Color": "1.9.1"
+  }
+}
